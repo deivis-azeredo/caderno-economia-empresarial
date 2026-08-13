@@ -64,4 +64,9 @@ Nesta seção estão documentadas as estratégias de instrução utilizadas, os 
 ```text
 PROMPT 1: Análise de Impacto Macroeconômico
 "Com base no texto de Cenário Econômico e Ciclos, analise como uma alta na taxa de juros e na inflação afeta: a) A demanda por produtos; b) O custo de capital; c) As decisões de investimento da empresa."
-Veja nossa metodologia de validação em VALIDATION.md".
+
+---
+
+## 🛠️ Metodologia de Validação
+Este projeto utiliza uma suíte de testes de unidade para RAG para garantir a precisão da IA e evitar alucinações. 
+[**Clique aqui para ver a nossa Suíte de Testes de Validação (VALIDATION.md)**](./VALIDATION.md)
